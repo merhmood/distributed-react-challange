@@ -11,7 +11,7 @@ npm install react-router-dom
 
 ### React Test Renderer
 
-This is used to testing of UI components without using dependencies like jsdom.
+This is used for testing of UI components without using dependencies like jsdom.
 For more visit [react-test-renderer](https://jestjs.io/docs/snapshot-testing).
 
 ```shell
