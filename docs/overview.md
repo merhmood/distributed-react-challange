@@ -1,6 +1,6 @@
 ### Generate Css files from Sass
 
-The commands below start the sass compiler in watch mode.
+The commands below starts the sass compiler in watch mode.
 For more visit [sass](https://sass-lang.com/)
 
 ```shell
@@ -11,7 +11,7 @@ sass ./src/assets/sass:./src/assets/css -w
 
 Icons in the `./src/assets/icons` directory, are svg code copied from the figma file and pasted into react components.
 
-> The search icon svg code copied from the figma file was render currently.
+> The search icon svg code copied from the figma file was render incorrectly.
 
 ### Fonts
 
